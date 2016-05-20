@@ -18,7 +18,11 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Father Goriot</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Father Goriot</meta>
+		<dc:title id="title-collection">The Human Comedy</dc:title>
+		<meta property="title-type" refines="#title-collection">collection</meta>
+		<meta property="file-as" refines="#title-collection">Human Comedy, The</meta>
 		<dc:subject id="subject-1">Fathers and daughters -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Paris (France) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">French fiction -- Translations into English</dc:subject>
