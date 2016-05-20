@@ -32,3 +32,17 @@ footer{
 [epub|type~="z3998:verse"] br{
 	display: none;
 }
+
+section[epub|type~="dedication"]{
+	margin: 25% auto;
+	max-width: 50%;
+}
+
+section[epub|type~="dedication"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+section[epub|type~="dedication"] p.signature{
+	text-align: right;
+}
