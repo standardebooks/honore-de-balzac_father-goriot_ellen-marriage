@@ -44,7 +44,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/P%C3%A8re_Goriot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_father-goriot_ellen-marriage</meta>
 		<dc:creator id="author">Honoré de Balzac</dc:creator>
-		<meta property="file-as" refines="#author">de Balzac, Honoré</meta>
+		<meta property="file-as" refines="#author">Balzac, Honoré</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79071094</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -99,5 +99,4 @@
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
-
 </package>
