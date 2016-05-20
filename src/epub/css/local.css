@@ -33,6 +33,11 @@ footer{
 	display: none;
 }
 
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
 section[epub|type~="dedication"]{
 	margin: 25% auto;
 	max-width: 50%;
@@ -45,4 +50,8 @@ section[epub|type~="dedication"] p{
 
 section[epub|type~="dedication"] p.signature{
 	text-align: right;
+}
+
+h2{
+	visibility: hidden;
 }
