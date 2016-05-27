@@ -52,6 +52,6 @@ section[epub|type~="dedication"] p.signature{
 	text-align: right;
 }
 
-section[epub|type~="bodymatter"] h2{
+[epub|type~="bodymatter"] h2{
 	visibility: hidden;
 }
