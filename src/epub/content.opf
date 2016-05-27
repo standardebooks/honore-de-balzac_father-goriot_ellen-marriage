@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/honore-de-balzac/father-goriot/ellen-marriage</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2016-05-27T05:06:20Z</dc:date>
+		<meta property="dcterms:modified">2016-05-27T05:06:20Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,16 +34,19 @@
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1237</meta>
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1237</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man tries to climb up the cutthroat Parisian social ladder during the Bourbon Restoration.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Father Goriot&lt;/i&gt;, today considered one of Balzac&amp;rsquo;s most important works, is part of his novel sequence &lt;i&gt;The Human Comedy&lt;/i&gt;.  It&amp;rsquo;s the first of Balzac&amp;rsquo;s novels to feature recurring characters, a technique that he famously developed in his subsequent novels.&lt;/p&gt;
+			&lt;p&gt;Set in Paris during the Bourbon Restoration of the early 1800s, &lt;i&gt;Father Goriot&lt;/i&gt; follows Eugène de Rastignac, a student born to noble roots but little means, as he tries to climb the social ladder in Paris.  The impoverished Goriot is staying at the same boardinghouse as Rastignac&amp;mdash;and Rastignac sees opportunity in Goriot&amp;rsquo;s richly-married and elegant daughters.&lt;/p&gt;
+			&lt;p&gt;The novel has been widely praised for its realist portrayal of Parisian life of various social classes, and its deep influence on French literature is still felt today.  While it had chapter breaks when it was initially serialized, Balzac removed them when compiling his definitive edition of &lt;i&gt;The Human Comedy&lt;/i&gt;, a change that is preserved in this edition.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1237</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006141043</dc:source>
-		<meta property="se:word-count">103473</meta>
+		<meta property="se:production-notes">A large number of corrections were made to the source, including adding accent marks to French words and names that were present in the page scans.</meta>
+		<meta property="se:word-count">103377</meta>
 		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/P%C3%A8re_Goriot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_father-goriot_ellen-marriage</meta>
@@ -58,6 +61,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no89008943</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Gustave Caillebotte</dc:contributor>
 		<meta property="file-as" refines="#artist">Caillebotte, Gustave</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Caillebotte</meta>
