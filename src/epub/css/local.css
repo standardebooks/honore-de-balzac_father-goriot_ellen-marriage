@@ -57,6 +57,7 @@ section[epub|type~="dedication"] p.signature{
 	text-align: right;
 }
 
-[epub|type~="bodymatter"] h2{
-	visibility: hidden;
+[epub|type~="bodymatter"] p:first-child{
+	margin-top: 6em;
+	text-indent: 0;
 }
