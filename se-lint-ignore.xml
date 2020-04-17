@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="father-goriot.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>All matches are actually complete clauses.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
