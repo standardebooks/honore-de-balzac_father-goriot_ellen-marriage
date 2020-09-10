@@ -5,7 +5,7 @@ footer{
 	text-align: right;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
@@ -42,7 +42,7 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-section[epub|type~="dedication"] p[epub:type~="z3998:signature"]{
+section[epub|type~="dedication"] p[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
