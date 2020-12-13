@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
@@ -46,7 +47,6 @@ section[epub|type~="dedication"] p[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
-[epub|type~="bodymatter"] p:first-child{
+#father-goriot > p:first-child{
 	margin-top: 6em;
-	text-indent: 0;
 }
