@@ -29,6 +29,7 @@
 		<dc:title id="title">Father Goriot</dc:title>
 		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Father Goriot</meta>
+		<meta property="dcterms:alternative" refines="#title">Old Goriot</meta>
 		<dc:title id="title-collection">The Human Comedy</dc:title>
 		<meta property="title-type" refines="#title-collection">collection</meta>
 		<meta property="file-as" refines="#title-collection">Human Comedy, The</meta>
