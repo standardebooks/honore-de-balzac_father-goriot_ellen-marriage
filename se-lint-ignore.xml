@@ -2,6 +2,9 @@
 <se-lint-ignore>
 	<file path="father-goriot.xhtml">
 		<ignore code="t-017">
+			<line>272</line>
+			<line>919</line>
+			<line>1010</line>
 			<reason>All matches are actually complete clauses.</reason>
 		</ignore>
 	</file>
